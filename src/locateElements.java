@@ -21,8 +21,12 @@ public class locateElements {
 		 * log in - button
 		 * links - forget password, Privacy Policy, Terms, Help 
 		 * 
+		 * Additional Notes
 		 * 
+		 *  - Class locator not that useful on the login page (not unique)
 		 * */
+		
+		
 		
 	
 		//===================================		
